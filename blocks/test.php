@@ -1,0 +1,1 @@
+<div class="bg-blue-50"></div>
